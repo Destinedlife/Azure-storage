@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://greymatter.com/wp-content/uploads/2021/11/Microsoft-Azure-Logo.png"/>
+<img src="https://greymatter.com/wp-content/uploads/2021/11/Microsoft-Azure-Logo.png" height="80%" width="80%"/>
 </p>
 
 <h1>Azure - Creating Storage Container and uploading files</h1>
