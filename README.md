@@ -37,7 +37,7 @@ Log in to azure portal and navigate to resource groups from the home page. In or
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Then click "create". Next choose your subscription, name your resource group, and choose a region of your choice. *note!!! use the same region for all items going inside the resource group in the future*
 </p>
 <br />
 
@@ -45,6 +45,31 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Towards the top next to "basics" and "Tags" click "review + Create" the click "create" at the bottom
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In the search bar search for storage account and click it. Then click create storage account.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The last created subscription and region should already be selected, if not change to the appropriate settings. For the storage account name create a unique name. then for redundancy choose "Locally-redundant Storage (LRS)" for cheap storage. Lastly  clcik "review and create" and then click "create". Wait for the storage account to be deployed.
+</p>
+<br />
+![image](https://github.com/user-attachments/assets/dc2a402e-b283-4169-b26d-988c2eea36ad)
+<p>
+
+
+</p>
+<p>
+Navigate to your new storage account from the home page and or search for it in the search bar. once inside, in the list down on the left choose data storage > containers
 </p>
 <br />
